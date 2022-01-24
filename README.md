@@ -10,10 +10,11 @@ All tools should be run while Borderlands 2 is currently in the specified state.
 
 - `DumpAssetLibraryManager`: main menu
 - `DumpBalance`: in-game
+- `DumpCredits`: main menu
 - `DumpCurrencies`: any
 - `DumpCustomizations`: any
 - `DumpDeveloperPerks`: any
-- `DumpDownloadableContentManager`: any
+- `DumpDLC`: any
 - `DumpItems`: in-game
 - `DumpMissions`: any
 - `DumpParts`: any
